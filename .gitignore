@@ -1,0 +1,3 @@
+# direnv temporary files
+.direnv/*
+!.direnv/.gitkeep
